@@ -5,8 +5,10 @@ Collaborators:
 * Yuhan Zhang
 * Jessie Cruz 
 
-## Website
-* http://roommate-app-ucsd.herokuapp.com/home
+## Links
+* Web Application: http://roommate-app-ucsd.herokuapp.com/home
+* Prototype Walkthrough: https://www.youtube.com/watch?v=kYn6910DrLY
+* Course Website: http://ixd.ucsd.edu/home
 
 ## Resources
 
