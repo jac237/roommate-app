@@ -5,6 +5,8 @@ Collaborators:
 * Yuhan Zhang
 * Jessie Cruz 
 
+## Website
+* http://roommate-app-ucsd.herokuapp.com/home
 
 ## Resources
 
